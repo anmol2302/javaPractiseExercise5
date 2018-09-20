@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="hamcrest-core-1.3">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/hamcrest-core-1.3.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/junit-4.12.jar!/" />
+      <root url="file://$USER_HOME$/Downloads" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/Downloads/assignment-solution-step2/src" />
+      <root url="file://$USER_HOME$/Downloads/assignment-solution-step3/src" />
+      <root url="file://$USER_HOME$/Downloads/junit/src/main/java" />
+      <root url="file://$USER_HOME$/Downloads/junit/src/main/test" />
+      <root url="file://$USER_HOME$/Downloads" />
+    </SOURCES>
+    <jarDirectory url="file://$USER_HOME$/Downloads" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Downloads" recursive="false" type="SOURCES" />
+  </library>
+</component>
