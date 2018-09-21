@@ -6,7 +6,6 @@ class StudentSorter implements Comparator{
 
         if(s1.name.equalsIgnoreCase(s2.name) && s1.age==s2.age){
             return s1.id-s2.id;
-
         }
         else if(s1.age==s2.age)
             return s1.name.compareTo(s2.name);
